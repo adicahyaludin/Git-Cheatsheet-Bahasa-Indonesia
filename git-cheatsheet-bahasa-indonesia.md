@@ -40,4 +40,4 @@ git clone URL
 git command --help
 ```
 
-Bagi yang mau belajar git secara interaktif bahasa indonesia silahkan belajar di [codesaya.com/git](https://codesaya.com/git), git cheatsheet diatas juga merupakan rangkuman dari perintah git di codesaya
+Bagi yang mau belajar git secara interaktif bahasa indonesia silahkan belajar di [codesaya.com/git](https://codesaya.com/git), git cheatsheet diatas juga merupakan rangkuman dari perintah git di codesaya :)
