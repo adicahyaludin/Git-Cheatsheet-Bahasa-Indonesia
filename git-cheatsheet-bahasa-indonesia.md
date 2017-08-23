@@ -1,5 +1,7 @@
 # GIT CHEATSHEET BAHASA INDONESIA
 
+Perintah git dibawah ini adalah perintah git umum untuk pemula, yang sudah cukup mewakili perintah git yang sering digunakan sehari-hari oleh para coders.
+
 ```
 git init
 git config --global user.email "mail@mail.co" 
@@ -42,6 +44,6 @@ git command --help
 
 ## Catatan
 
-Bagi yang mau belajar git secara interaktif bahasa indonesia silahkan belajar di [codesaya.com/git](https://codesaya.com/git), git cheatsheet diatas juga merupakan rangkuman dari perintah git di codesaya yang sudah cukup mewakili perintah git yang sering digunakan sehari-hari oleh para coders.
+Bagi yang mau belajar git secara interaktif bahasa indonesia silahkan belajar di [codesaya.com/git](https://codesaya.com/git), git cheatsheet diatas juga merupakan rangkuman dari perintah git di codesaya.
 
-_\* Perintah git diatas hanya perintah git umum, masih banyak perintah git lainnya, untuk melihat perintah git secara lengkap silahkan kunjungi [git-scm.com/docs](https://git-scm.com/docs)_
+_\* Masih banyak perintah git lainnya, untuk melihat perintah git secara lengkap silahkan kunjungi [git-scm.com/docs (bahasa inggris) ](https://git-scm.com/docs)_
