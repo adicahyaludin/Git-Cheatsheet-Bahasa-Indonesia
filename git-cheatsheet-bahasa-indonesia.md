@@ -1,6 +1,4 @@
-# GIT CHEATSHEET BAHASA INDONESIA
-
-Perintah git dibawah ini adalah perintah git umum untuk pemula, yang sudah cukup mewakili perintah git yang sering digunakan sehari-hari oleh para coders.
+# GIT CHEATSHEET BAHASA INDONESIA UNTUK PEMULA
 
 ```
 git init
@@ -44,6 +42,6 @@ git command --help
 
 ## Catatan
 
-Bagi yang mau belajar git secara interaktif bahasa indonesia silahkan belajar di [codesaya.com/git](https://codesaya.com/git), git cheatsheet diatas juga merupakan rangkuman dari perintah git di codesaya.
+Bagi yang mau belajar git secara interaktif bahasa indonesia silahkan belajar di [codesaya.com/git](https://codesaya.com/git), git cheatsheet diatas juga merupakan rangkuman dari perintah git di codesaya yang sudah cukup mewakili dan sering digunakan sehari-hari oleh para coders.
 
 _\* Masih banyak perintah git lainnya, untuk melihat perintah git secara lengkap silahkan kunjungi [git-scm.com/docs (bahasa inggris) ](https://git-scm.com/docs)_
